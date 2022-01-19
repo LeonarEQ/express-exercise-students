@@ -20,7 +20,7 @@ const app = express();
      
      app.use('/', function (req, res) {
 
-        res.status(404).send(`<h1>No se encuentra la página!</h1><p> La respuesta es de tipo "${typeof res}" y el estatus es: ${res.statusCode}</p>`);
+        res.status(404).send(`<h1>**Resource not fund**</h1><p> La respuesta es de tipo "${typeof res}" y el estatus es: ${res.statusCode}</p>`);
     })
     
      

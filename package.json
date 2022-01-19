@@ -8,7 +8,8 @@
     "start": "nodemon server1.js",
     "server1": "nodemon server1.js",
     "server2": "nodemon server2.js",
-    "server3": "nodemon server3.js"
+    "server3": "nodemon server3.js",
+    "server4": "nodemon server4.js"
     
   },
   

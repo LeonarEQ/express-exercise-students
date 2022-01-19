@@ -118,7 +118,7 @@ Si el usuario no accede al endpont 'check' el servidor debe devolver un error 40
 
 Fíjate que no tienes que implementar la funcionalidad para saber si una palabra es un palíndromo o no. Tienes un __custom module__ preparado para utilizarlo en utils/palindrome. Tan solo debes importarlo.
 
-BONUS: ¿Serías capaz de devolver el mensaje adecuado sin tener que usar dos veces el método 'send' en tu servidor?
+BONUS: ¿Serías capaz de devolver el mensa   je adecuado sin tener que usar dos veces el método 'send' en tu servidor?
 
 ## Server 5
 Crea una nueva entrada en la sección de scripts de package.json que te permita ejecutar: 
